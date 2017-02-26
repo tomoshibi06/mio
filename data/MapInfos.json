@@ -1,0 +1,14 @@
+[
+null,
+null,
+null,
+{"id":3,"expanded":false,"name":"アジト","order":7,"parentId":0,"scrollX":709.3333333333334,"scrollY":486.6666666666667},
+null,
+null,
+{"id":6,"expanded":false,"name":"公園","order":2,"parentId":0,"scrollX":709.3333333333334,"scrollY":406.6666666666667},
+{"id":7,"expanded":false,"name":"公園前","order":3,"parentId":0,"scrollX":720,"scrollY":406.6666666666667},
+{"id":8,"expanded":true,"name":"市街地","order":1,"parentId":0,"scrollX":1354.6666666666667,"scrollY":766.6666666666666},
+{"id":9,"expanded":false,"name":"バイト先","order":4,"parentId":0,"scrollX":720,"scrollY":406.6666666666667},
+{"id":10,"expanded":false,"name":"おうち","order":5,"parentId":0,"scrollX":709.3333333333334,"scrollY":526.6666666666666},
+{"id":11,"expanded":false,"name":"回想","order":6,"parentId":0,"scrollX":720,"scrollY":406.6666666666667}
+]

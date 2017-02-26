@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"澪","classId":1,"equips":[1,1,2],"faceIndex":0,"faceName":"澪０１","traits":[{"code":23,"dataId":9,"value":0},{"code":53,"dataId":2,"value":1},{"code":53,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"澪","nickname":"","note":"","profile":"黒咲澪（くろさき みお）\nバイトをしながら一人で暮らす普通の少女"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0],"faceIndex":0,"faceName":"","traits":[{"code":23,"dataId":9,"value":0}],"initialLevel":99,"maxLevel":99,"name":"ミオ","nickname":"","note":"","profile":""}
+]
